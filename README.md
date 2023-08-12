@@ -1,1 +1,1 @@
-You are a beginner with Dasduino. Or electronics? A specific module caught your eye, but you do not know how to use it? Do not worry, HUM is here for you! How to Use Module (HUM) is a blog tutorials series by soldered where you will find all you need in order to begin working with your favorite module. Tutorials include: technical characteristics, work principle, instructions on how to connect module with Dasduino and the basic code. Everything else is left to your imagination.
+=
